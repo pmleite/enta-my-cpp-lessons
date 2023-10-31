@@ -8,6 +8,6 @@ Parâmetros a configurar no Visual Studio Code.
 
 ![Alt text](./imgs/image.png)
 
-Instalçar o plugin .run para que o processo de compilação seja mais eficiente
+Instalar o plugin .run para que o processo de compilação seja mais eficiente
 
 ![Alt text](./imgs/coderunner.png)
