@@ -10,4 +10,4 @@ Parâmetros a configurar no Visual Studio Code.
 
 Instalçar o plugin .run para que o processo de compilação seja mais eficiente
 
-![Alt text](./coderunner.png)
+![Alt text](./imgs/coderunner.png)
