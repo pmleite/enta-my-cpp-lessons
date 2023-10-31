@@ -1,5 +1,13 @@
 # my_cpp_lessons
 
-Lições básicas de C++
+Parâmetros a configurar no Visual Studio Code.
 
-chave_da_sorte -> Gerador de chave para o euromilhões
+- Abrir os settings CTRL+SHIFT+P (Settings)
+- Procurar por "Run inTerminal"
+- Selecionar a caixa com a descrição: "Code Runner: Run in Terminal"
+
+![Alt text](./imgs/image.png)
+
+Instalçar o plugin .run para que o processo de compilação seja mais eficiente
+
+![Alt text](coderunner.png)
