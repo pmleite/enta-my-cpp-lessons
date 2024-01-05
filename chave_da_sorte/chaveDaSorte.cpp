@@ -1,6 +1,6 @@
 /**
  * @file chaveDaSorte.cpp
- * @author your name (you@domain.com)
+ * @author Paulo Leite (pauloleite@enta.pt)
  * @brief Jogo que gera uma chave aleatória de 5 núemros de 1 a 50 e duas estrela de 1 a 12
  * @version 0.1
  * @date 2023-10-26
@@ -97,7 +97,6 @@ void ordenaChave(int chave[], int estrela[]){
         }
     }
 }
-
 
 
 /**
