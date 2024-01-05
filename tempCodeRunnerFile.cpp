@@ -1,1 +1,1 @@
-cout << n << endl;
+cout << (x==y) << "\n";

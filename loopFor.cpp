@@ -3,12 +3,20 @@ using namespace std;
 
 int main(){
 
-    int chave[5];
-    int estrelas[2];
+    
+// indice            0        1      2       3        4
+int numeros[] = {1,2,3,4,5};
+cout << sizeof(numeros)/4 << endl;
 
-    for (int i=0; i<4; i++){
-        cout << chave[i] << endl;
-    }
+
+
+// cout << cars[2] << "\n";
+// cars[2] = "Opel";
+// cout << cars[2] << "\n";
+
+// for (int i = 0; i < 5; i++) {
+//   cout << cars[i] << "\n";
+// }
 
 
 
